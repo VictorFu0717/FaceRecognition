@@ -1,2 +1,2 @@
-# build Dlib libaray with CM
+# build Dlib libaray with CMake
 # OS: macOS or Linux
